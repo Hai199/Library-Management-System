@@ -31,15 +31,15 @@ LibraryManagement/
 └── LMSTest.java            # Main method with menu
 
 # Technologies Used
-Java (JDK 8 or higher)
-SpringToolSuite
+Java (JDK 8 or higher) ,
+SpringToolSuite ,
 Command Prompt
 
 # How to Run
 Clone the repo or download the files.
 Open in your IDE or compile using terminal:
 javac *.java
-java Main
+java Main .
 Use the console menu to test all features.
 
 # Sample Data
