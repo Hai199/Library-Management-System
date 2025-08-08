@@ -2,10 +2,10 @@
 A simple Java console application that simulates a basic library system using core Object-Oriented Programming (OOP) concepts.
 
 # Features
-Add books to the library
-Register users
-Issue books to users
-Return books from users
+Add books to the library ,
+Register users ,
+Issue books to users ,
+Return books from users ,
 View all available/issued books
 
 # OOP Concepts Demonstrated
